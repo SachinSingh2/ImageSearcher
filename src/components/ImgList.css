@@ -1,0 +1,17 @@
+.ImageList{
+    columns: 6 200px;
+    column-gap: 10px;
+padding-left: 50px;
+padding-right: 60px;
+margin-top: 20px;
+
+
+}
+
+img{
+    width: 100%;
+    margin-left: 10px;
+    height: 100%;
+    box-shadow: 1px 1px 1px 1px gray;
+    margin: 10px;
+}
